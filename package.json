@@ -18,5 +18,9 @@
   "homepage": "https://github.com/TheoMLP/json_the_cat#readme",
   "dependencies": {
     "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mochai": "^0.2.5"
   }
 }
